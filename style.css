@@ -1,0 +1,61 @@
+*{
+    background-color: rgb(29, 99, 165);
+    
+}
+
+.section img{
+    width: 50%;
+    margin:9% 10% 0% 30%
+    
+}
+
+.container {
+    width:350px;
+    height: 330px;
+    background: #fff;
+    padding: 5px;
+    margin:-27.1% 0% 0 31%;
+
+
+
+}
+
+
+.heading{
+    font-weight:bold;
+    text-align: center;
+    color: #fff;
+    font-size:20px
+    margin:-2%;
+}
+.form{
+    top:200px;
+    width:450px;
+
+
+}
+
+.inputbox{
+    width: 70%;
+    padding:2px;
+    margin:2px;
+    outline: none;
+    background:#fff;
+    margin: 10px;
+
+}
+
+
+.button1{
+    width:73%;
+    border:0;
+    border-radius: 30px;
+    outline:none;
+    background:rgb(29, 99, 165);
+    padding: 15px;
+    margin: 30px 5px;
+    
+}
+
+
+
